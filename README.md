@@ -1,5 +1,5 @@
 # mygithub-practice
 ## Contributors
 
-- **Haruna Muhammad** mharuna_001
+- **Haruna Muhammad** mHaruna001
 - **Instructor:** github.com/mubarraqqq
